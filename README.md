@@ -1,5 +1,3 @@
- ![REACT WEBSITE WITH TAILWIND](https://user-images.githubusercontent.com/65420004/159359722-8228596b-733d-4e5f-be1d-b6a0212d43c6.jpg)
-
 
 #Getting Started with Create React App
 
@@ -71,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![redbull web3](https://user-images.githubusercontent.com/65456462/175832488-fd479eb9-5208-4528-8dde-cc02d0359c20.jpg)
