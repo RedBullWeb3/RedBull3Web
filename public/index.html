@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+   app.use(express.static(path.join(__dirname, 'build')));
+
+-app.get('/', function (req, res) {
++app.get('/*', function (req, res) {
+   res.sendFile(path.join(__dirname, 'build', 'index.html'));
+ });
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
