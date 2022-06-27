@@ -1,6 +1,8 @@
 {
   "name": "blockchain-react-tailwind",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.15.1"},
   "private": true,
   "dependencies": {
     "@metamask/onboarding": "^1.0.1",
@@ -37,13 +39,9 @@
       "last 1 safari version"
     ]
   },
-    "devDependencies": {
+  "devDependencies": {
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.4"
-  },
-  "engines" : { 
-    "npm" : ">=7.0.0",
-    "node" : ">=16.0.0"
   }
 }
