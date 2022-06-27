@@ -1,8 +1,6 @@
- [REACT WEBSITE WITH TAILWIND]
+ REACT WEBSITE WITH TAILWIND 
  
-![redbull web3](https://user-images.githubusercontent.com/65456462/176015618-6e4f27f1-f040-46c0-823f-80c34b16d5eb.jpg)
-![redbull web35](https://user-images.githubusercontent.com/65456462/176015622-ca1731b1-41a6-4d93-a6f3-67b99f723c23.jpg)
-
+![bullweb3](https://user-images.githubusercontent.com/65456462/176015872-26327588-85c1-4628-ad58-2d71241cedae.jpg)
 
 
 #Getting Started with Create React App
