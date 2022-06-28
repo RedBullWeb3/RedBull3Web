@@ -1,8 +1,6 @@
 {
   "name": "blockchain-react-tailwind",
   "version": "0.1.0",
-  "engines": {
-    "node": "16.15.1"},
   "private": true,
   "dependencies": {
     "@metamask/onboarding": "^1.0.1",
